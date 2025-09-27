@@ -1,4 +1,6 @@
-# NetflixClone
+# NetflixClone 
+Built a responsive Netflix clone using HTML and CSS, replicating the core layout and design of the platform. Implemented modern CSS features such as flexbox, grid, animations, hover effects, and smooth transitions to create an interactive and visually appealing user interface
+
 
 <img width="1896" height="914" alt="image" src="https://github.com/user-attachments/assets/6b02c861-7632-4111-b8d7-c95d1a2a0604" />
 
